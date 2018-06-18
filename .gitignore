@@ -52,6 +52,7 @@ Thumbs.db
 */build
 var
 logs
+svn/
 
 # IntelliJ specific files/directories
 out
