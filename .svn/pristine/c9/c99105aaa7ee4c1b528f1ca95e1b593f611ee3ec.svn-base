@@ -1,3 +1,0 @@
-Server 可以不要；
-直接在service中通过main函数启动 Dubbo的容器服务；
-不过配置文件需要放到service中；
